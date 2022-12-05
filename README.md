@@ -1,6 +1,6 @@
 # Seydus
 
-**`Digital Craftsman (Game Developer/Website Developer)`**
+**`Aspring (Game Developer/Website Developer/Software Developer)`**
 
 Hello, my name is Weljohn Catanpatan! I am a college student taking computer science.
 I have been in this programming industry quite a while already and have been creating projects.
