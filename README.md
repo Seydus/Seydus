@@ -1,9 +1,8 @@
 # Seydus
 
-**`Digital Craftsman (Game Developer/Website Developer)`**
+**`Aspiring to become a (Game Developer/Website Developer/Software Developer)`**
 
-Hello, my name is Weljohn Catanpatan! I am a college student taking computer science.
-I have been in this programming industry quite a while already and have been creating projects.
+A college student taking computer science! A passionate game developer and front-end developer from the Philippines
 
 <p align="left">
     <a href="https://github.com/Seydus?tab=followers">
