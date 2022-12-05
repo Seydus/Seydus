@@ -12,8 +12,13 @@ I have been in this programming industry quite a while already and have been cre
          <a href="https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/351695433181a22544c877d86f7f0e131773ac1a8b1cff3c14c6672765f7db49/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f73746172732f466f72726573744b6e696768743f636f6c6f723d353539363063267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d343838323037266c6f676f3d73746172" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;">
     </a>
-    [![](https://visitcount.itsvg.in/api?id=Seydus&icon=0&color=0)](https://visitcount.itsvg.in)
+    ![](https://visitcount.itsvg.in/api?id=Seydus&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <hr>
 
@@ -43,9 +48,5 @@ I have been in this programming industry quite a while already and have been cre
 <a href="https://www.youtube.com/watch?v=9A8sQZDRn5o" rel="nofollow"><img src="https://camo.githubusercontent.com/50abe6b48a61ab13ae80e3311c2b7349c38da964822c9627193102819212be8b/68747470733a2f2f797463617264732e64656d6f6c61622e636f6d2f3f69643d39413873515a44526e356f267469746c653d492b4d6164652b612b437573746f6d2b4769744875622b50726f66696c652b524541444d452b506f7274666f6c696f2b253238616e642b796f752b63616e2532432b746f6f253239266c616e673d656e2674696d657374616d703d31363633373730363034266261636b67726f756e645f636f6c6f723d253233306431313137267469746c655f636f6c6f723d2532336666666666662673746174735f636f6c6f723d2532336465646564652677696474683d323530266475726174696f6e3d363535" alt="I Made a Custom GitHub Profile README Portfolio (and you can, too)" title="I Made a Custom GitHub Profile README Portfolio (and you can, too)" data-canonical-src="https://ytcards.demolab.com/?id=9A8sQZDRn5o&amp;title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&amp;lang=en&amp;timestamp=1663770604&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;width=250&amp;duration=655" style="max-width: 100%;"></a>
 <a href="https://www.youtube.com/watch?v=n2B-FClr5rA" rel="nofollow"><img src="https://camo.githubusercontent.com/eec546f1057914b24318d85505cc73f919d05032322b6ce2a08ed70ced27b0ad/68747470733a2f2f797463617264732e64656d6f6c61622e636f6d2f3f69643d6e32422d46436c72357241267469746c653d352b436f64696e672b50726f6a656374732b25323866726f6d2b626567696e6e65722b746f2b616476616e636564253239266c616e673d656e2674696d657374616d703d31363633303739343039266261636b67726f756e645f636f6c6f723d253233306431313137267469746c655f636f6c6f723d2532336666666666662673746174735f636f6c6f723d2532336465646564652677696474683d323530266475726174696f6e3d31303930" alt="5 Coding Projects (from beginner to advanced)" title="5 Coding Projects (from beginner to advanced)" data-canonical-src="https://ytcards.demolab.com/?id=n2B-FClr5rA&amp;title=5+Coding+Projects+%28from+beginner+to+advanced%29&amp;lang=en&amp;timestamp=1663079409&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;width=250&amp;duration=1090" style="max-width: 100%;"></a></p>
 
-<hr>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
