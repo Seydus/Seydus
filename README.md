@@ -37,4 +37,4 @@ I am a college student taking computer science from the Philippines. I have been
 
 <p><img align="left" width="300px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=seydus&show_icons=true&theme=dark&locale=en&layout=compact" alt="seydus" /></p>
 
-<p><img align="left" width="359px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
+<p><img align="left" width="360px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
