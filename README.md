@@ -36,23 +36,6 @@ I am a college student taking computer science from the Philippines. I have been
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-<b><p align="justify">💻 Projects</p></b>
-
-<table table style="border: none;">
-  <tr>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
-  </tr>
-</table>
-
-#
-
 <b><p align="justify">📊 Stats</p></b>
 
 <p><img align="left" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=seydus&show_icons=true&theme=dark&locale=en&layout=compact" alt="seydus" /></p>
