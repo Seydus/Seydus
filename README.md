@@ -4,25 +4,9 @@
 
 Hello, my name is Weljohn Catanpatan! I am a college student taking computer science.
 
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
 
-<p align="left">
-    <a href="https://github.com/Seydus?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/645e1ba86512362522916fcb4b4862fd029581268b93b40ab39a0dc873f936e1/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-         <a href="[https://github.com/ForrestKnight?tab=repositories&amp;sort=stargazers](https://github.com/Seydus?tab=repositories&q=&type=&language=&sort=stargazers)">
-         <img alt="total stars" title="Total stars on GitHub" src="" data-canonical-src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&amp;style=for-the-badge&amp;labelColor=488207&amp;logo=star" style="max-width: 100%;">
-    </a>
-</p>
 
 <hr>
 
