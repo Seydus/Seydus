@@ -36,7 +36,7 @@ I am a college student taking computer science from the Philippines. I have been
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
-<b><p align="justify">📺 Projects</p></b>
+<b><p align="justify">💻 Projects</p></b>
 
 <table table style="border: none;">
   <tr>
