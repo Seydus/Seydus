@@ -11,7 +11,7 @@ I am a college student taking computer science from the Philippines. I have been
 
    <p align="left">
      <a href="https://github.com/Seydus?tab=followers">
-         <img alt="GitHub followers" src="https://img.shields.io/github/followers/seydus?label=FOLLOW&logo=Github&style=for-the-badge&color=#1155ba"></a>
+         <img alt="GitHub followers" src="https://img.shields.io/github/followers/seydus?label=FOLLOW&logo=Github&style=for-the-badge&color=1155ba"></a>
       <a href="https://github.com/Seydus?tab=repositories&q=&type=&language=&sort=stargazers">
          <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Seydus?tab=repositories&q=&type=&language=&sort=stargazers?color=%23006241&style=for-the-badge"></a>
    </p>
