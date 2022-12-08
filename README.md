@@ -38,16 +38,16 @@ I am a college student taking computer science from the Philippines. I have been
 
 <b><p align="justify">📺 Projects</p></b>
 
-<table border="1">
+<table border="0">
   <tr>
-    <td><img src="image1.jpg" alt="Image 1" width="200" height="200" /></td>
-    <td><img src="image2.jpg" alt="Image 2" width="200" height="200" /></td>
-    <td><img src="image3.jpg" alt="Image 3" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
   </tr>
   <tr>
-    <td><img src="image4.jpg" alt="Image 4" width="200" height="200" /></td>
-    <td><img src="image5.jpg" alt="Image 5" width="200" height="200" /></td>
-    <td><img src="image6.jpg" alt="Image 6" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
+    <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="200" height="200" /></td>
   </tr>
 </table>
 
