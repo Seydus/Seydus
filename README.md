@@ -13,7 +13,7 @@ I am a college student taking computer science from the Philippines. I have been
      <a href="https://github.com/Seydus?tab=followers">
          <img alt="GitHub followers" src="https://img.shields.io/github/followers/seydus?label=FOLLOW&logo=Github&style=for-the-badge"></a>
       <a href="https://github.com/Seydus?tab=repositories&q=&type=&language=&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Seydus?tab=repositories&q=&type=&language=&sort=stargazers?color=%23006241&style=for-the-badge"></a>
    </p>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
