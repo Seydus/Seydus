@@ -9,11 +9,6 @@ I am a college student taking computer science from the Philippines. I have been
  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbSGqZtsHnVmhkvsPgptcMhtFpDbLpvRjfMwvbTJVjnwfPkhhdLCCBzTfRWZZKpsSnCSvZ">weljohn.contact@gmail.com</a>.
 </p>
 
-   <p align="left">
-     <a href="https://github.com/Seydus?tab=followers">
-         <img alt="GitHub followers" src="https://img.shields.io/github/followers/seydus?label=FOLLOW&logo=Github&style=for-the-badge&color=1155ba"></a>
-   </p>
-
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <b><p align="justify">🧰 Languages and Tools</p></b>
@@ -36,6 +31,6 @@ I am a college student taking computer science from the Philippines. I have been
 
 <b><p align="justify">📊 Stats</p></b>
 
-<p><img align="left" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=seydus&show_icons=true&theme=dark&locale=en&layout=compact" alt="seydus" /></p>
+<p><img align="left" width="300px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=seydus&show_icons=true&theme=dark&locale=en&layout=compact" alt="seydus" /></p>
 
-<p><img align="left" width="478px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
+<p><img align="left" width="378px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
