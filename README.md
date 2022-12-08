@@ -35,3 +35,18 @@ I am a college student taking computer science from the Philippines. I have been
 <br>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How to Improve Efficiency as a Software Developer](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=How+to+Improve+Efficiency+as+a+Software+Developer&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "How to Improve Efficiency as a Software Developer")](https://www.youtube.com/watch?v=Ov1tuHS4uNw)
+[![How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "How to Build a Minimal Developer Portfolio Website Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=b0pkpcD8Ms4)
+[![Command Line Tools ALL Developers Should Know](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Command+Line+Tools+ALL+Developers+Should+Know&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://www.youtube.com/watch?v=DIny00tOBdU)
+[![I Built a Minimal Developer Portfolio Using React + Tailwind + Vite](https://ytcards.demolab.com/?id=g9hPa-G3lfw&title=I+Built+a+Minimal+Developer+Portfolio+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1666797301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=725 "I Built a Minimal Developer Portfolio Using React + Tailwind + Vite")](https://www.youtube.com/watch?v=g9hPa-G3lfw)
+[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
+[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&lang=en&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
