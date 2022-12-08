@@ -51,10 +51,10 @@ I am a college student taking computer science from the Philippines. I have been
   </tr>
 </table>
 
-<br>
+#
 
 <b><p align="justify">📊 Stats</p></b>
 
 <p><img align="left" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=seydus&show_icons=true&theme=dark&locale=en&layout=compact" alt="seydus" /></p>
 
-<p><img align="left" width="480px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
+<p><img align="left" width="470px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=seydus&show_icons=true&theme=dark&locale=en" alt="seydus" /></p>
