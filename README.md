@@ -38,6 +38,7 @@ I am a college student taking computer science from the Philippines. I have been
 
 <b><p align="justify">📺 Projects</p></b>
 
+<table table style="border: none;">
   <tr>
     <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
     <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
@@ -48,6 +49,7 @@ I am a college student taking computer science from the Philippines. I have been
     <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
     <td><img src="https://i1.wp.com/www.slntechnologies.com/wp-content/uploads/2017/08/ef3-placeholder-image.jpg?ssl=1" alt="Image 1" width="100%" height="200" style="padding:10px"/></td>
   </tr>
+</table>
 
 #
 
