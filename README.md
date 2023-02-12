@@ -4,7 +4,7 @@
 
  <p align="justify">
 I am a college student taking computer science from the Philippines. I enjoy programming and have a passion for software engineering. In my free time, I enjoy developing games and finding interesting thing. I am currently doing game development and am always looking for new opportunities and challenges in my career. If you 
-would like to learn</p> <p>more about me or get in touch, please feel free to email me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbSGqZtsHnVmhkvsPgptcMhtFpDbLpvRjfMwvbTJVjnwfPkhhdLCCBzTfRWZZKpsSnCSvZ">weljohn.contact@gmail.com</a>.
+would like to learn more about me or get in touch, please feel free to email me at <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbSGqZtsHnVmhkvsPgptcMhtFpDbLpvRjfMwvbTJVjnwfPkhhdLCCBzTfRWZZKpsSnCSvZ">weljohn.contact@gmail.com</a>.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weljohncatanpatan/)
