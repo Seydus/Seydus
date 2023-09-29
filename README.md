@@ -12,7 +12,9 @@ would like to learn more about me or get in touch, please feel free to email me 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saidusdev) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](Saidus#1008) 
 
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
+-->
 
 <b><p align="justify">🧰 Languages and Tools</p></b>
 
