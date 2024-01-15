@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://twitter.com/saidusdev" style="margin-bottom: 10px">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="Saidus#1008" style="margin-bottom: 10px">
+  <a href="https://discordapp.com/users/437228848350756864" style="margin-bottom: 10px">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </div>
 
