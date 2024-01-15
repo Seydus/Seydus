@@ -23,7 +23,7 @@
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
     <img lt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
     <img alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
-    <img alt="Unity" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />&nbsp;&nbsp;
+    <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />&nbsp;&nbsp;
     <img alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />&nbsp;&nbsp;
 </div>
 
