@@ -25,6 +25,7 @@
     <img lt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
     <img alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
     <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />&nbsp;&nbsp;
+    <img alt="Godot" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />&nbsp;&nbsp;
     <img alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />&nbsp;&nbsp;
 </div>
 
