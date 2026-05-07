@@ -19,13 +19,12 @@
     <img alt=".NET Core" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />&nbsp;&nbsp;
     <img alt="Java" width="30px" style="padding-right:10px;" src="https://www.kloia.com/hubfs/java-1.png" />&nbsp;&nbsp;
     <img alt="React" width="30px" style="padding-right:10px;" src="https://assets-global.website-files.com/62038ffc9cd2db4558e3c7b7/623b38335c7b880db9eff54d_react.svg" />&nbsp;&nbsp;
-    <img alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />&nbsp;&nbsp;
+/>&nbsp;&nbsp;
     <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;&nbsp;
     <img lt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;&nbsp;
     <img alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
     <img alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" />&nbsp;&nbsp;
-    <img alt="Godot" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" />&nbsp;&nbsp;
     <img alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />&nbsp;&nbsp;
 </div>
 
